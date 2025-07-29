@@ -1,0 +1,371 @@
+{
+  "zh-TW": {
+    "title": "OMNI BREW 點餐工具",
+    "header": {
+      "title": "OMNI BREW 點餐工具",
+      "businessHours": "營業時間：週一至週六 10:00-21:00",
+      "deliveryTime": "外送接單：結束營業前1小時"
+    },
+    "drinkSelection": {
+      "title": "選擇飲品",
+      "backToCategories": "返回類別",
+      "noDrinksSelected": "尚未選擇任何飲品",
+      "categories": "種選擇"
+    },
+    "order": {
+      "title": "您的訂單",
+      "addToOrder": "加入訂單",
+      "remove": "移除",
+      "quantity": "數量",
+      "clearOrder": "清空訂單",
+      "clearOrderConfirm": "確定要清空所有訂單嗎？"
+    },
+    "delivery": {
+      "title": "外送設定",
+      "deliveryMethod": "取餐方式",
+      "delivery": "外送",
+      "pickup": "自取",
+      "deliveryFee": "外送費選擇",
+      "fee39": "₱39 (0-5 km)",
+      "fee59": "₱59 (5-10 km)",
+      "fee99": "₱99 (10 km以上)",
+      "freeDelivery": "免運費",
+      "address": "地址",
+      "addressPlaceholder": "請輸入您的地址",
+      "storeLocation": "店家位置",
+      "viewInGoogleMaps": "在 Google Maps 中查看",
+      "deliveryInfo": "外送資訊",
+      "deliveryTimeRange": "外送時間：10AM-8:00PM (週一至週六)",
+      "deliveryRule1": "0-5 km：訂單₱500以下 ₱39運費，以上免運",
+      "deliveryRule2": "5-10 km：訂單₱1000以下 ₱59運費，以上免運",
+      "deliveryRule3": "10 km以上：訂單₱2000以下 ₱99運費，以上免運"
+    },
+    "settings": {
+      "title": "記憶設置",
+      "rememberSettings": "記憶我的設置",
+      "rememberSettingsDesc": "勾選後會自動記憶您的取餐方式、外送費選擇、地址和特約卡狀態",
+      "clearSettings": "清除記憶的設置",
+      "settingsCleared": "已清除所有記憶的設置！"
+    },
+    "orderSummary": {
+      "title": "訂單摘要",
+      "memberCard": "使用特約卡",
+      "subtotal": "商品總計：",
+      "discount": "特約卡折扣：",
+      "deliveryFee": "外送費：",
+      "total": "總計：",
+      "generateOrderText": "產生訂單文字",
+      "copyText": "複製文字",
+      "textCopied": "訂單文字已複製到剪貼簿！",
+      "sendToLine": "傳送到LINE"
+    },
+    "modals": {
+      "orderText": {
+        "title": "訂單文字"
+      },
+      "map": {
+        "title": "店家位置"
+      },
+      "success": {
+        "title": "新增成功"
+      }
+    },
+    "alerts": {
+      "selectDrinksFirst": "請先選擇飲品！",
+      "generateOrderTextFirst": "請先生成訂單文字！"
+    },
+
+    "drinkOptions": {
+      "size": "尺寸",
+      "temperature": "溫度",
+      "sweetness": "甜度",
+      "ice": "冰塊",
+      "toppings": "配料",
+      "customOptions": "自訂選項",
+      "noToppings": "無配料",
+      "pearls": "波霸",
+      "coconutJelly": "椰果",
+      "coffeeJelly": "咖啡凍",
+      "lemonIceJelly": "檸檬愛玉",
+      "tapiocaStrips": "粉條"
+    },
+    "sizes": {
+      "R": "Regular",
+      "L": "Large"
+    },
+    "temperatures": {
+      "hot": "熱",
+      "cold": "冰"
+    },
+    "sweetness": {
+      "0%": "無糖",
+      "25%": "微糖",
+      "50%": "半糖",
+      "75%": "少糖",
+      "100%": "全糖"
+    },
+    "ice": {
+      "no ice": "無冰",
+      "less ice": "微冰",
+      "regular ice": "正常冰"
+    },
+    "orderText": {
+      "order": "✏️Order:",
+      "delivery": "🚚Delivery / Pick Up :",
+      "pickup": "Pick Up",
+      "location": "🌏 Location :",
+      "pickupLocation": "自取",
+      "noAddress": "未填寫",
+      "subtotal": "商品:",
+      "memberCardDiscount": "特約卡折扣:",
+      "deliveryFee": "外送費:",
+      "total": "總計:"
+    }
+  },
+  "zh-CN": {
+    "title": "OMNI BREW 点餐工具",
+    "header": {
+      "title": "OMNI BREW 点餐工具",
+      "businessHours": "营业时间：周一至周六 10:00-21:00",
+      "deliveryTime": "外送接单：结束营业前1小时"
+    },
+    "drinkSelection": {
+      "title": "选择饮品",
+      "backToCategories": "返回类别",
+      "noDrinksSelected": "尚未选择任何饮品",
+      "categories": "种选择"
+    },
+    "order": {
+      "title": "您的订单",
+      "addToOrder": "加入订单",
+      "remove": "移除",
+      "quantity": "数量",
+      "clearOrder": "清空订单",
+      "clearOrderConfirm": "确定要清空所有订单吗？"
+    },
+    "delivery": {
+      "title": "外送设定",
+      "deliveryMethod": "取餐方式",
+      "delivery": "外送",
+      "pickup": "自取",
+      "deliveryFee": "外送费选择",
+      "fee39": "₱39 (0-5 km)",
+      "fee59": "₱59 (5-10 km)",
+      "fee99": "₱99 (10 km以上)",
+      "freeDelivery": "免运费",
+      "address": "地址",
+      "addressPlaceholder": "请输入您的地址",
+      "storeLocation": "店家位置",
+      "viewInGoogleMaps": "在 Google Maps 中查看",
+      "deliveryInfo": "外送信息",
+      "deliveryTimeRange": "外送时间：10AM-8:00PM (周一至周六)",
+      "deliveryRule1": "0-5 km：订单₱500以下 ₱39运费，以上免运",
+      "deliveryRule2": "5-10 km：订单₱1000以下 ₱59运费，以上免运",
+      "deliveryRule3": "10 km以上：订单₱2000以下 ₱99运费，以上免运"
+    },
+    "settings": {
+      "title": "记忆设置",
+      "rememberSettings": "记忆我的设置",
+      "rememberSettingsDesc": "勾选后会自动记忆您的取餐方式、外送费选择、地址和特约卡状态",
+      "clearSettings": "清除记忆的设置",
+      "settingsCleared": "已清除所有记忆的设置！"
+    },
+    "orderSummary": {
+      "title": "订单摘要",
+      "memberCard": "使用特约卡",
+      "subtotal": "商品总计：",
+      "discount": "特约卡折扣：",
+      "deliveryFee": "外送费：",
+      "total": "总计：",
+      "generateOrderText": "产生订单文字",
+      "copyText": "复制文字",
+      "textCopied": "订单文字已复制到剪贴簿！",
+      "sendToLine": "传送到LINE"
+    },
+    "modals": {
+      "orderText": {
+        "title": "订单文字"
+      },
+      "map": {
+        "title": "店家位置"
+      },
+      "success": {
+        "title": "新增成功"
+      }
+    },
+    "alerts": {
+      "selectDrinksFirst": "请先选择饮品！",
+      "generateOrderTextFirst": "请先生成订单文字！"
+    },
+
+    "drinkOptions": {
+      "size": "尺寸",
+      "temperature": "温度",
+      "sweetness": "甜度",
+      "ice": "冰块",
+      "toppings": "配料",
+      "customOptions": "自订选项",
+      "noToppings": "无配料",
+      "pearls": "波霸",
+      "coconutJelly": "椰果",
+      "coffeeJelly": "咖啡冻",
+      "lemonIceJelly": "柠檬爱玉",
+      "tapiocaStrips": "粉条"
+    },
+    "sizes": {
+      "R": "Regular",
+      "L": "Large"
+    },
+    "temperatures": {
+      "hot": "热",
+      "cold": "冰"
+    },
+    "sweetness": {
+      "0%": "无糖",
+      "25%": "微糖",
+      "50%": "半糖",
+      "75%": "少糖",
+      "100%": "全糖"
+    },
+    "ice": {
+      "no ice": "无冰",
+      "less ice": "微冰",
+      "regular ice": "正常冰"
+    },
+    "orderText": {
+      "order": "✏️Order:",
+      "delivery": "🚚Delivery / Pick Up :",
+      "pickup": "Pick Up",
+      "location": "🌏 Location :",
+      "pickupLocation": "自取",
+      "noAddress": "未填写",
+      "subtotal": "商品:",
+      "memberCardDiscount": "特约卡折扣:",
+      "deliveryFee": "外送费:",
+      "total": "总计:"
+    }
+  },
+  "en": {
+    "title": "OMNI BREW Ordering Tool",
+    "header": {
+      "title": "OMNI BREW Ordering Tool",
+      "businessHours": "Business Hours: Mon-Sat 10:00-21:00",
+      "deliveryTime": "Delivery Orders: 1 hour before closing"
+    },
+    "drinkSelection": {
+      "title": "Select Drinks",
+      "backToCategories": "Back to Categories",
+      "noDrinksSelected": "No drinks selected yet",
+      "categories": " options"
+    },
+    "order": {
+      "title": "Your Order",
+      "addToOrder": "Add to Order",
+      "remove": "Remove",
+      "quantity": "Quantity",
+      "clearOrder": "Clear Order",
+      "clearOrderConfirm": "Are you sure you want to clear all orders?"
+    },
+    "delivery": {
+      "title": "Delivery Settings",
+      "deliveryMethod": "Pickup Method",
+      "delivery": "Delivery",
+      "pickup": "Pickup",
+      "deliveryFee": "Delivery Fee",
+      "fee39": "₱39 (0-5 km)",
+      "fee59": "₱59 (5-10 km)",
+      "fee99": "₱99 (10+ km)",
+      "freeDelivery": "Free Delivery",
+      "address": "Address",
+      "addressPlaceholder": "Please enter your address",
+      "storeLocation": "Store Location",
+      "viewInGoogleMaps": "View in Google Maps",
+      "deliveryInfo": "Delivery Information",
+      "deliveryTimeRange": "Delivery Time: 10AM-8:00PM (Mon-Sat)",
+      "deliveryRule1": "0-5 km: ₱39 fee for orders under ₱500, free above",
+      "deliveryRule2": "5-10 km: ₱59 fee for orders under ₱1000, free above",
+      "deliveryRule3": "10+ km: ₱99 fee for orders under ₱2000, free above"
+    },
+    "settings": {
+      "title": "Memory Settings",
+      "rememberSettings": "Remember My Settings",
+      "rememberSettingsDesc": "Check to automatically remember your pickup method, delivery fee, address and member card status",
+      "clearSettings": "Clear Saved Settings",
+      "settingsCleared": "All saved settings have been cleared!"
+    },
+    "orderSummary": {
+      "title": "Order Summary",
+      "memberCard": "Use Member Card",
+      "subtotal": "Subtotal:",
+      "discount": "Member Discount:",
+      "deliveryFee": "Delivery Fee:",
+      "total": "Total:",
+      "generateOrderText": "Generate Order Text",
+      "copyText": "Copy Text",
+      "textCopied": "Order text copied to clipboard!",
+      "sendToLine": "Send to LINE"
+    },
+    "modals": {
+      "orderText": {
+        "title": "Order Text"
+      },
+      "map": {
+        "title": "Store Location"
+      },
+      "success": {
+        "title": "Added Successfully"
+      }
+    },
+    "alerts": {
+      "selectDrinksFirst": "Please select drinks first!",
+      "generateOrderTextFirst": "Please generate order text first!"
+    },
+
+    "drinkOptions": {
+      "size": "Size",
+      "temperature": "Temperature",
+      "sweetness": "Sweetness",
+      "ice": "Ice",
+      "toppings": "Toppings",
+      "customOptions": "Custom Options",
+      "noToppings": "No Toppings",
+      "pearls": "pearls",
+      "coconutJelly": "Coconut Jelly",
+      "coffeeJelly": "Coffee Jelly",
+      "lemonIceJelly": "Lemon Ice Jelly",
+      "tapiocaStrips": "Tapioca Strips"
+    },
+    "sizes": {
+      "R": "Regular",
+      "L": "Large"
+    },
+    "temperatures": {
+      "hot": "Hot",
+      "cold": "Cold"
+    },
+    "sweetness": {
+      "0%": "No Sugar",
+      "25%": "Light Sugar",
+      "50%": "Half Sugar",
+      "75%": "Less Sugar",
+      "100%": "Full Sugar"
+    },
+    "ice": {
+      "no ice": "No Ice",
+      "less ice": "Less Ice",
+      "regular ice": "Regular Ice"
+    },
+    "orderText": {
+      "order": "✏️Order:",
+      "delivery": "🚚Delivery / Pick Up :",
+      "pickup": "Pick Up",
+      "location": "🌏 Location :",
+      "pickupLocation": "Pickup",
+      "noAddress": "Not filled",
+      "subtotal": "Subtotal:",
+      "memberCardDiscount": "Member Discount:",
+      "deliveryFee": "Delivery Fee:",
+      "total": "Total:"
+    }
+  }
+}
